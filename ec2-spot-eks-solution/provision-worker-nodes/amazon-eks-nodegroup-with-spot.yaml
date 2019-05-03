@@ -588,6 +588,3 @@ Outputs:
   NodeInstanceRole:
     Description: The node instance role. Needed for aws-cm-auth.yaml
     Value: !GetAtt NodeInstanceRole.Arn
-
-
-
